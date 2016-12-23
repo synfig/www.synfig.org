@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Morevna Episode 3
+subtitle: by Morevna Project
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: ejE6CX8jZhI
+thumbnail: mor-ep3.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: August 2016
+author: Morevna Project
+sources: <a href="https://morevnaproject.org/2016/08/24/morevna-episode-3-sources-released/"> Morevna Episode 3 </a>
+description: Marya Morevna is a futuristic anime series, based on traditional Russian fairy-tale. In this episode the beautiful princess Marya Morevna leaves to a biker meeting. Her beloved one Ivan Tsarevitch stays in her mansion alone, just to discover dark secrets right under his feets…
 
 ---

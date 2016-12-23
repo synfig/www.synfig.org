@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Prologue
+subtitle: by Voria Studios
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2014-07-17
+img: wwSZZivjQMo
+thumbnail: prologue.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2005
+author: Voria Studios
+sources: <a href="http://download.tuxfamily.org/synfig/voria/prologue.zip"> Prologue </a>
+description: This short follows two children fleeing from soldiers through an old sewer. In an attempt to protect his friend, one of the children tries to draw one of the soldiers away. However, plans don't always work out as one would hope. This was the first animated production created using Synfig, and as such has become our “proof of concept” animation for it. Sources are available under the terms of CC BY-NC-ND license.
 
 ---
