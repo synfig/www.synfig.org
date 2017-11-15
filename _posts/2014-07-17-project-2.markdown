@@ -4,12 +4,12 @@ subtitle: by Morevna Project
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: ejE6CX8jZhI
+img: YOgfgPC1G0w
 thumbnail: mor-ep3.png
 alt: image-alt
-project-date: August 2016
+project-date: November 2017
 author: Morevna Project
 sources: <a href="https://morevnaproject.org/2016/08/24/morevna-episode-3-sources-released/"> Morevna Episode 3 </a>
-description: Marya Morevna is a futuristic anime series, based on traditional Russian fairy-tale. In this episode the beautiful princess Marya Morevna leaves to a biker meeting. Her beloved one Ivan Tsarevitch stays in her mansion alone, just to discover dark secrets right under his feets…
+description: Morevna is a futuristic anime series, based on traditional Russian fairy-tale. In this episode the beautiful princess Marya Morevna leaves to a biker meeting. Her beloved one Ivan Tsarevitch stays in her mansion alone, just to discover dark secrets right under his foots...
 
 ---
