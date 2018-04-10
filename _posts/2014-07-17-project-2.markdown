@@ -4,7 +4,7 @@ subtitle: by Morevna Project
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: YOgfgPC1G0w
+img: ecVv2IB7f5k
 thumbnail: mor-ep3.png
 alt: image-alt
 project-date: November 2017
